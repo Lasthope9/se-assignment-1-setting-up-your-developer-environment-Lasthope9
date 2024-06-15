@@ -1,0 +1,16 @@
+# Ignore operating system files
+Thumbs.db
+.DS_Store
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore Node.js modules
+node_modules/
+
+# Ignore Python bytecode files
+__pycache__/
+
+# Ignore package manager directories
+npm-debug.log
